@@ -1,0 +1,15 @@
+# Core Dependencies
+numpy>=1.21.0
+gymnasium>=0.27.0
+matplotlib>=3.5.0
+
+# Reinforcement Learning
+stable-baselines3>=2.0.0
+torch>=1.13.0
+
+# Visualization
+streamlit>=1.28.0
+streamlit-drawable-canvas>=0.2.0
+
+# Optional utilities
+tqdm>=4.65.0
